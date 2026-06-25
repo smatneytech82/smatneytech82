@@ -1,56 +1,60 @@
 # Shannon Matney
 
-Technical support + backend developer focused on building APIs, automation tools, and practical software systems.
+Technical support + systems-focused developer specializing in automation, backend tools, and cybersecurity fundamentals.
 
-I’m a Cybersecurity student with hands-on experience in:
+I’m a Cybersecurity student with real-world experience in:
+- IT support and system troubleshooting
+- AI data quality evaluation and analysis
 - backend development (Java, Spring Boot)
 - Python automation and scripting
-- AI data quality evaluation
-- troubleshooting Windows/Linux environments
-- real-world technical support in operational environments
+- Windows and Linux environments
 
 ---
 
-## What I’m looking for
+## What I’m targeting
 Remote roles in:
-- IT Support / Help Desk
+- IT Support / Help Desk / Service Desk
 - Technical Support Engineering
 - SaaS Support Specialist
-- AI Data Quality / AI Training
-- Entry-Level Cybersecurity (SOC / Security Ops)
+- AI Trainer / AI Data Quality Analyst
+- Entry-Level Cybersecurity (SOC / Security Operations)
 
 ---
 
 ## Projects
 
 ### Inventory Management System (Java)
-Console-based system for tracking and managing inventory using object-oriented design principles.
+Console-based application for managing inventory using object-oriented programming principles.
 
-Focus: OOP, data structures, application logic
+Focus: OOP design, data handling, application structure
 
 ---
 
 ### Task Tracker API (Spring Boot)
-REST API supporting full CRUD operations for task management.
+REST API built with Spring Boot supporting CRUD operations for task management.
 
-Focus: API design, backend architecture, Spring Boot, RESTful services
+Focus: backend systems, API development, REST architecture
 
 ---
 
 ### File Organizer Tool (Python)
-Automation script that sorts and organizes files into structured directories.
+Automation script that organizes files into structured directories.
 
 Focus: automation, filesystem operations, scripting efficiency
 
 ---
 
-## Tech Stack
-Java • Python • Spring Boot • REST APIs • Git • Linux • Windows • SQL basics
+## Technical Focus Areas
+- System troubleshooting (Windows/Linux)
+- Backend development (Java, Spring Boot)
+- Python automation
+- Basic cybersecurity concepts
+- AI evaluation and data quality analysis
 
 ---
 
-## Current Focus
+## Current Development Goals
 - CompTIA Security+
 - Networking fundamentals
-- Backend development improvement
-- Remote technical roles
+- Strengthening backend + scripting skills
+- Remote IT / AI technical roles
